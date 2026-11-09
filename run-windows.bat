@@ -1,0 +1,1 @@
+@echo off\r\nmvn spring-boot:run\r\npause\r\n
